@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment {
-        PROJECT_NAME = "Pipeline-Job-4-Git"
+        PROJECT_NAME = "Pipeline-Job-4-Git-1"
         OWNER_NAME = "VGE"
     }
     stages {
